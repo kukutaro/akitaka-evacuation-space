@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/akitaka-evacuation-space/static/css/main.f855e6bc.css",
-    "main.js": "/akitaka-evacuation-space/static/js/main.6d16724c.js",
+    "main.css": "/akitaka-evacuation-space/static/css/main.d9f59c18.css",
+    "main.js": "/akitaka-evacuation-space/static/js/main.73bdf81f.js",
     "static/js/453.5e2cd7dc.chunk.js": "/akitaka-evacuation-space/static/js/453.5e2cd7dc.chunk.js",
-    "static/media/logo.svg": "/akitaka-evacuation-space/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/akitaka-evacuation-space/index.html",
-    "main.f855e6bc.css.map": "/akitaka-evacuation-space/static/css/main.f855e6bc.css.map",
-    "main.6d16724c.js.map": "/akitaka-evacuation-space/static/js/main.6d16724c.js.map",
+    "main.d9f59c18.css.map": "/akitaka-evacuation-space/static/css/main.d9f59c18.css.map",
+    "main.73bdf81f.js.map": "/akitaka-evacuation-space/static/js/main.73bdf81f.js.map",
     "453.5e2cd7dc.chunk.js.map": "/akitaka-evacuation-space/static/js/453.5e2cd7dc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.6d16724c.js"
+    "static/css/main.d9f59c18.css",
+    "static/js/main.73bdf81f.js"
   ]
 }
